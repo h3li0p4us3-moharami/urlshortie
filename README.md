@@ -85,9 +85,9 @@ make sure you have installed these before you start:
 
 ## Technologies Used
 
-- **Next.js**: A React framework for building server-side rendered applications.
-- **MongoDB**: A NoSQL database for storing URL data.
-- **React**: A JavaScript library for building user interfaces.
+- **Next.js**
+- **MongoDB**
+- **Tailwindcss**
 
 ## Customization
 
